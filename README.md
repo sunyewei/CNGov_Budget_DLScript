@@ -13,7 +13,7 @@
 ## Attention
 This repository is for personal usage only. I make it open-sourced just because it is cool and make sync much easier.
 
-This is an open-sourced python and it's only 150 lines long. OF COURSE it comes with NO WARRANTY.
+This is an open-sourced python file and it's only 150 lines long. OF COURSE it comes with NO WARRANTY.
 
 If you want to imporve it, **READ THE GODDAMN CODE and create a fork**.
 
