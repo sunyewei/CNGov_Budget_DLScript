@@ -1,3 +1,6 @@
+# Author: Yewei
+# Purpose: Download budget documents and rename thee accordingly
+
 import csv
 import os
 import requests
