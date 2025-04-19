@@ -1,4 +1,4 @@
-# CNGov_Budget_DLScripte
+# SHGov_Budget_DLScripte
 ## Intro
 - 因工作需要的自用爬虫仓库，可以自动化爬取“一网通办”上公开的预算信息
 - 目前年份写死在代码里，因为我懒得获取并规格化用户输入
